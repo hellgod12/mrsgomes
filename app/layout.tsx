@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LinguaLearn - Master Any Language",
+  title: "mrsgomes - Master Any Language",
   description: "Professional language courses in English, Spanish, French, German, Japanese, and more. Start your language learning journey today.",
 };
 
